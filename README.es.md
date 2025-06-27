@@ -31,7 +31,7 @@ El proyecto contiene un único archivo principal donde se definen y manipulan di
 console.log("¡Gestión de Datos con Objetos, Sets y Maps!");
 ```
 
-### 2. Inicialización
+### 2. Objeto de productos
 
 ```js
 const productos = {
@@ -87,6 +87,8 @@ console.log("Lista de productos únicos (Set):", setProductos);
 console.log("Categorías y productos (Map):", mapProductos);
 ```
 
+---
+
 ## ✅ Cómo ejecutar
 
 ```bash
@@ -99,6 +101,8 @@ cd riwi-m3-js-week2.git
 ```bash
 node index.js
 ```
+
+---
 
 ## 📌 Notas
 
