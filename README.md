@@ -56,4 +56,4 @@ cd todo-app
 - Animaciones y mejoras UI
 
 ## 🧑‍💻 Autor
-Desarrollado por Tu Abrahan Villa
+Desarrollado por Abrahan Villa
