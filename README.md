@@ -11,6 +11,8 @@ This project demonstrates how to handle data structures in JavaScript using Obje
 - JavaScript (ES6+)
 - Node.js (Required for local execution)
 
+---
+
 ## 📂 Project Structure
 
 The project contains a single main file where different data structures are defined and manipulated:
@@ -29,7 +31,7 @@ The project contains a single main file where different data structures are defi
 console.log("Data Management with Objects, Sets, and Maps!");
 ```
 
-## 2. Object Initialization
+### 2. Object Initialization
 
 ```js
 const products = {
@@ -39,7 +41,7 @@ const products = {
 };
 ```
 
-## Set of Unique Names
+### 3. Set of Unique Names
 
 ```js
 const productSet = new Set(
@@ -47,7 +49,7 @@ const productSet = new Set(
 );
 ```
 
-## 4. Map of Categories and Products
+### 4. Map of Categories and Products
 
 ```js
 const productMap = new Map([
@@ -57,7 +59,7 @@ const productMap = new Map([
 ]);
 ```
 
-## 5. Iterating Through Data Structures
+### 5. Iterating Through Data Structures
 
 ```js
 // Iterate through the products object
@@ -76,7 +78,7 @@ productMap.forEach((product, category) => {
 });
 ```
 
-## 6. Final Output
+### 6. Final Output
 
 ```js
 console.log("Completed data management tests:");
@@ -99,6 +101,8 @@ cd riwi-m3-js-week2.git
 ```bash
 node index.js
 ```
+
+---
 
 ## 📌 Notes
 
