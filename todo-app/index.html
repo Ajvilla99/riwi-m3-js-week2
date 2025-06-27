@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>To-Do List with Objects, Sets, and Maps</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>📝 To-Do List</h1>
+
+    <input type="text" id="taskInput" placeholder="Nueva tarea..." />
+    <select id="categorySelect">
+      <option value="Personal">Personal</option>
+      <option value="Trabajo">Trabajo</option>
+      <option value="Salud">Salud</option>
+    </select>
+    <button onclick="addTask()">Agregar tarea</button>
+
+    <h2>Tareas por categoría</h2>
+    <div id="taskList"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
