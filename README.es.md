@@ -99,7 +99,7 @@ cd riwi-m3-js-week2.git
 ### 1. Ejecuta el archivo
 
 ```bash
-node index.js
+node index.es.js
 ```
 
 ---
