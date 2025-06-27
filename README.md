@@ -37,7 +37,7 @@ todo-app/
 
 ## 📸 Vista previa
 
-![preview](./assets/view_proyect.png)
+![preview](./assets/./img/view_proyect.png)
 
 ---
 
